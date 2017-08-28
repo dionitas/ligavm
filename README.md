@@ -1,2 +1,2 @@
 # ligavm
-Shellscript para ligar VM do VirtualBox
+Script para ligar vms do curso de jboss.
